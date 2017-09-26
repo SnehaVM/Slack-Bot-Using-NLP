@@ -1,0 +1,15 @@
+professor;professor,who,instructor,teacher,lecturer,prof,instructor_name
+email;email_id,mail,email,e-mail,mail_id,the_email,the_mail,professor_email,instructor_email,professor_mail,instructor_mail,email_address,mail_address,mail_address
+subject_name;subject_name,subject,course_name,name_subject,name_course,course,course
+office_location;office_room,office_location,office,location,location
+office_hours;office_hour,hour
+classroom_protocol;classroom_protocol,protocol,the_protocol
+class_days;class_day,day
+classroom;classroom,class_room,room,the_room,the_class,room_number,hall,class_hall
+prerequisites;prerequisite,pre_requisite,pre-req,requisite_pre
+course_website;website,course_website,website_course,canvas_website
+course_description;course_description,description,course_desc,course_about,course_detail,about_course
+textbooks_materials;textbook,study_material,material,book,text_book,study_reference
+course_catalog;course_catalog,course_catalogue,catalog,catalogue
+course_policy;course_policy,policy,guideline,rule,course_rule,course_guideline.plagiarism_policy,plagiarism
+submission;submission_method,method_submission

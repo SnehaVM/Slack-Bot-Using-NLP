@@ -1,0 +1,9 @@
+labs;lab    
+quizzes;quiz
+assignment;assignment,assignment
+project;project,group_project,final_project,project_final,project_group
+mid_term;mid-term,midterm,midterm-exam,mid_term,midterm_exam
+final_term;final,final-term,final-exam,final_exam,final_term,finalexam
+grading_type;grade_pattern,grade_type,grade,pattern,grading,policy,grade_policy
+deadlines;deadline,dead_line
+hands_on;hand_on

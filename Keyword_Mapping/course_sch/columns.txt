@@ -1,0 +1,3 @@
+date;eta,when,due-date,duedate,due_date,deadline,dead-line,date,dead_line,dead_line
+dues;submit,submitted,submission,due_be,be_due,to_do,to_do
+topics;subject,chapter,topic,lecture,the_topic,the_chapter,the_subject
